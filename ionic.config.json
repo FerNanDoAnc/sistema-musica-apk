@@ -1,0 +1,7 @@
+{
+  "name": "sistemaMusica-apk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
